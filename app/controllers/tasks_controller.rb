@@ -1,17 +1,5 @@
 class TasksController < ApplicationController
-  def list
-  end
-
-  def view
-  end
-
-  def add
-  end
-
-  def edit
-  end
-
-  def remove
-  end
+def index
+end
 
 end
